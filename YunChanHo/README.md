@@ -24,7 +24,7 @@ World Happiness Report (2015–2024) 데이터를 기반으로 팀원들이 수�
 
 ---
 
-## Final Outputs (Work in Progress)
+## Final Outputs
 - 통합 데이터셋: `data/happiness_2015_2024.csv`
 - 최종 취합 리포트: (업데이트 예정)
 - 핵심 인사이트 요약: (업데이트 예정)
@@ -51,7 +51,7 @@ World Happiness Report (2015–2024) 데이터를 기반으로 팀원들이 수�
 
 ---
 
-## EDA Report Structure (Team Standard)
+## EDA Report Structure
 최종 취합 리포트는 아래 구조를 기준으로 정리합니다.
 
 - Executive Summary (핵심 결론)
@@ -76,7 +76,7 @@ World Happiness Report (2015–2024) 데이터를 기반으로 팀원들이 수�
 
 ---
 
-## Key Insights (Results + Recommendations)
+## Key Insights
 
 - 행복지수(Happiness Score)는 `GDP`, `Life_Expectancy`, `Social_Support`와 강한 양의 상관관계를 보였습니다.
   - 결과: `GDP`(≈ 0.79), `Life_Expectancy`(≈ 0.68), `Social_Support`(≈ 0.66)가 상대적으로 높은 상관을 보였습니다.
